@@ -1,4 +1,4 @@
 PeerstPlayer-micro
 ==================
 
-PeerCast専用プレイヤー「PeerstPlayer」
+PeerstPlayer(PeerCast専用プレイヤー)
